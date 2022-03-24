@@ -100,8 +100,8 @@ By using EC2 instance, the microservices are launched on AWS cloud.
 
 ## Developers
 
-* [Siva Krishna B](https://github.com/Dhileepchinni/CDE21IJ026-POD2-ClaimsManagement)
-* [Vishali P](https://github.com/Dhileepchinni/CDE21IJ026-POD2-ClaimsManagement)
-* [Sravan B](https://github.com/Dhileepchinni/CDE21IJ026-POD2-ClaimsManagement)
-* [Anuj B ](https://github.com/Dhileepchinni/CDE21IJ026-POD2-ClaimsManagement)
-* [Ravi Chandra](https://github.com/Dhileepchinni/CDE21IJ026-POD2-ClaimsManagement)
+* [Siva Krishna B](https://github.com/BollikondaSivaKrishna123/MFPE-AUDIT-MANAGEMENT)
+* [Vishali P](https://github.com/BollikondaSivaKrishna123/MFPE-AUDIT-MANAGEMENT)
+* [Sravan B](https://github.com/BollikondaSivaKrishna123/MFPE-AUDIT-MANAGEMENT)
+* [Anuj B ](https://github.com/BollikondaSivaKrishna123/MFPE-AUDIT-MANAGEMENT)
+* [Ravi Chandra](https://github.com/BollikondaSivaKrishna123/MFPE-AUDIT-MANAGEMENT)
